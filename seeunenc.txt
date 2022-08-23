@@ -1,0 +1,2 @@
+This filename is not covered in the .gitattributes,
+so it should be visible.
